@@ -3,3 +3,6 @@ A simple one page website created to help complete beginners learn HTML basics. 
 # here wo go
 **bold**
 ## h2 tag
+*list
+  *first 
+  *second
